@@ -5,4 +5,4 @@ Why did Sam Brownback think his tax cut would make 35,000 people move to Kansas?
 
 Using [IPUMS](https://usa.ipums.org/usa/) and [NBER](http://users.nber.org/~taxsim/state-rates/) data, I try to find out.
 
-Current status: Table talked to in PgSQL! Thanks, [The Schemaverse](https://schemaverse.com/)! Next step is to aggregate and plot things, ideally with iPython notebook's handy widgets functionality.
+Current status: This has been inactive for a while, but the next step would be looking at the jobs claims. ~~Table talked to in PgSQL! Thanks, [The Schemaverse](https://schemaverse.com/)! Next step is to aggregate and plot things, ideally with iPython notebook's handy widgets functionality.~~
